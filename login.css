@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(145deg, #022345, #E5ECFF, #3B5673);
+}
+
+.base {
+    background: linear-gradient(128deg, #022345, #E9F1FE);
+    border: 2px groove #ffffff;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+
+}
+
+.entities {
+    background-color: #E9F1FE;
+    border: 3px #ffffff;
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: aliceblue;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 90px;
+}
