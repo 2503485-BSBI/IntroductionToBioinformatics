@@ -4,7 +4,7 @@ body {
 
 .form {
     width: 600px;
-    height: 700px;
+    height: 800px;
     background: linear-gradient(128deg, #022345, #254b71, #022345);
     justify-content: space-between;
     align-items: center;
@@ -42,8 +42,8 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 19px;
     color: white;
-    margin-left: 30px;
-    width: 55%;
+    margin-left: 55px;
+    width: 33%;
 }
 
 #name1::placeholder {
@@ -68,9 +68,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 19px;
     color: white;
-    margin-right: 30px;
+    margin-right: 50px;
     float: right;
-    width: 55%;
+    width: 33%;
 }
 
 #name2::placeholder {
@@ -95,9 +95,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 19px;
     color: white;
-    margin-left: 30px;
+    margin-left: 55px;
     float: left;
-    width: 79%;
+    width: 69%;
 }
 
 #enter_email::placeholder {
@@ -122,9 +122,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 19px;
     color: white;
-    margin-left: 58px;
+    margin-left: 55px;
     float: left;
-    width: 64%;
+    width: 69%;
 }
 
 #enter_password::placeholder {
@@ -141,6 +141,6 @@ h1 {
     color: aliceblue;
     width: 300px;
     height: 60px;
-    margin-top: 60px;
-    margin-left: 130px;
+    margin-top: 70px;
+    margin-left: 140px;
 }
