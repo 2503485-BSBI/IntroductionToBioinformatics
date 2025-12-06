@@ -1,0 +1,146 @@
+body {
+    background-color: white;
+}
+
+.form {
+    width: 600px;
+    height: 700px;
+    background: linear-gradient(128deg, #022345, #254b71, #022345);
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 5px 5px 5px rgb(101, 102, 111);
+    border-radius: 6%;
+    border: 2px black;
+    margin: 40px;
+    position: absolute;
+    left: 350px;
+
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px 3px black;
+    margin-top: 60px;
+}
+
+#fname {
+    color: aliceblue;
+    margin-top: 40px;
+    margin-left: 80px;
+    float: left;
+    text-shadow: 1px 1px 3px black
+}
+
+#name1 {
+    background: none;
+    border-color: aliceblue;
+    outline-color: 2px #022345;
+    height: 37px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: white;
+    margin-left: 30px;
+    width: 55%;
+}
+
+#name1::placeholder {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#lname {
+    color: aliceblue;
+    margin-top: 40px;
+    margin-left: 202px;
+    float: left;
+    text-shadow: 1px 1px 3px black;
+}
+
+#name2 {
+    background: none;
+    border-color: aliceblue;
+    outline-color: 2px #022345;
+    height: 37px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: white;
+    margin-right: 30px;
+    float: right;
+    width: 55%;
+}
+
+#name2::placeholder {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#email {
+    color: aliceblue;
+    margin-top: 80px;
+    margin-left: 80px;
+    float: left;
+    text-shadow: 1px 1px 3px black
+}
+
+#enter_email {
+    background: none;
+    border-color: aliceblue;
+    outline-color: 2px #022345;
+    height: 37px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: white;
+    margin-left: 30px;
+    float: left;
+    width: 79%;
+}
+
+#enter_email::placeholder {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#password {
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 80px;
+    float: left;
+    text-shadow: 1px 1px 3px black
+}
+
+#enter_password {
+    background: none;
+    border-color: aliceblue;
+    outline-color: 2px #022345;
+    height: 37px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: white;
+    margin-left: 58px;
+    float: left;
+    width: 64%;
+}
+
+#enter_password::placeholder {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#button {
+    background: linear-gradient(90deg, rgb(9, 48, 88), #193755, rgb(9, 48, 88));
+    box-shadow: 1px 1px 8px #6b9bcb;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: aliceblue;
+    width: 300px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 130px;
+}
