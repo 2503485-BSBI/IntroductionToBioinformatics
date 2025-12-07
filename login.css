@@ -144,3 +144,38 @@ h1 {
     margin-top: 70px;
     margin-left: 140px;
 }
+
+#created {
+    width: 500px;
+    height: 60px;
+    background: linear-gradient(128deg, #022345, #254b71, #022345);
+    box-shadow: 4px 4px black;
+    border: 1px solid black;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    display: none;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px 3px black;
+}
+
+#refresh {
+    color: aliceblue;
+    margin-top: 40px;
+    width: 60%;
+    height: 40%;
+    background: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 1px 1px 3px black;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
