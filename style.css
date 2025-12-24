@@ -1,0 +1,48 @@
+.header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40 px;
+    background-color: #022345;
+    color: aliceblue;
+    border: 6px solid rgb(142, 142, 143);
+
+}
+
+#home_button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80 px;
+    background-color: #022345;
+    color: aliceblue;
+    border: 2px solid rgb(142, 142, 143);
+    float: right;
+    margin-right: 20px;
+    margin-top: 70px;
+}
+
+#search_button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80 px;
+    background-color: #022345;
+    color: aliceblue;
+    border: 2px solid rgb(142, 142, 143);
+    float: right;
+    margin-right: 20px;
+    margin-top: 70px;
+}
+
+#login_button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80 px;
+    background-color: #022345;
+    color: aliceblue;
+    border: 2px solid rgb(142, 142, 143);
+    float: right;
+    margin-right: 50px;
+    margin-top: 70px;
+}
+
+#ContactUs_button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80 px;
+    background-color: #022345;
+    color: aliceblue;
+}
